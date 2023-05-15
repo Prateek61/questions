@@ -1,0 +1,4 @@
+SQLAlchemy
+sqlalchemy-utils
+typer
+rich

@@ -2,3 +2,5 @@ SQLAlchemy
 sqlalchemy-utils
 typer
 rich
+markdownify
+beautifulsoup4
